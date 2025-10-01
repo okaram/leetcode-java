@@ -1,4 +1,4 @@
-package samples;
+package com.okaram.solutions;
 
 public class LeetCode55 {
     public static boolean canJump(int[] nums) {

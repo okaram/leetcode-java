@@ -1,4 +1,4 @@
-package samples;
+package com.okaram.solutions;
 
 public class LeetCode45 {
     public static void printArray(int []nums){

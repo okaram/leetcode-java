@@ -2,6 +2,8 @@ package com.okaram.solutions;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
+
+// Leetcode 380
 public class RandomizedSet {
     
     public HashMap<Integer,Integer> places=new HashMap<Integer,Integer>();
